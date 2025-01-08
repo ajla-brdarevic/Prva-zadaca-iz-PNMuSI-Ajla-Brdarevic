@@ -1,4 +1,4 @@
-# Prva zadaca iz PNMuSI - Rješsavanje nelinearnih jednačcina
+# Prva zadaca iz PNMuSI - Rješavanje nelinearnih jednačina
 
 1. Napisati program (u programskom jeziku po želji) za rješavanje nelinearnih jednačina koristeći metodu regula falsi. Program treba da ima minimalno sljedeće karakteristike:
 a) unos granica intervala i tačnosti;  
