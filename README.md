@@ -1,9 +1,6 @@
 # Prva zadaca iz PNMuSI - Rješsavanje nelinearnih jednačcina
 
-1. Napisati program (u programskom jeziku po želji) za rješavanje nelinearnih jednačina
-
-koristeći metodu regula falsi. Program treba da ima minimalno sljedeće karakteristike:
-
+1. Napisati program (u programskom jeziku po želji) za rješavanje nelinearnih jednačina koristeći metodu regula falsi. Program treba da ima minimalno sljedeće karakteristike:
 a) unos granica intervala i tačnosti;  
 b) provjeru ispunjenosti uslova za korištenje metode;  
 c) maksimalan broj iteracija – postaviti na 150;  
@@ -28,6 +25,4 @@ d) ispis treba da sadrži redni broj iteracije, trenutnu aproksimaciju, vrijedno
 5. Napisane programe iskoristiti za rješavanje sljedećeg inženjerskog problema:   Van der Waalsova jednačina stanja za fluide može se predstaviti u obliku  
 pv³ − pbv² + av − ab = RT v²  
 gdje je, p pritisak, v molarna zapremina, a i b su empirijske konstante vodika, T je   apsolutna temperatura i R je gasna konstanta. Odredi v. Iterativni proces zaustaviti kada je razlika dvije uzastopne iteracije manja od 10⁻⁶.
-
-Podaci: R = 0.082054 [L at/(mol K)], a = 0.2476, b = 0.02661, p = 20 [at], T = 500  
-[K], v₀ = 10.
+Podaci: R = 0.082054 [L at/(mol K)], a = 0.2476, b = 0.02661, p = 20 [at], T = 500 [K], v₀ = 10.
